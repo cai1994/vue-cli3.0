@@ -1,0 +1,71 @@
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.rel {
+  position: relative;
+}
+
+.abs {
+  position: absolute;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.clearfix {
+  &::after {
+    display: block;
+    height: 0;
+    content: "";
+    visibility: hidden;
+    clear: both;
+  }
+}
+
+.disabled-cursor {
+  pointer-events: none;
+  cursor: default;
+  opacity: 0.6;
+}
+
+.ht-border {
+  border-bottom: 10px solid $fontBlack;
+}
+
+.abs-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.block {
+  display: block;
+}
+
+
+.inline-block {
+  display: inline-block;
+}
+
+.bfc {
+  overflow: auto;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.no-select {
+  user-select: none;
+}

@@ -1,0 +1,52 @@
+// 白色
+$white: #fff;
+// 黑色
+$black: #303133;
+// 灰色
+$gray: #606266;
+// 蓝色
+$blue: #306ef7;
+// 边框灰
+$borderColor: #eaeaea;
+// 字体黑色
+$fontBlack: #676767;
+// 红色
+$red: #ff554b;
+// 淡灰
+$lightGray: #eee;
+// 输入框内置灰
+$insertGray: #f9fbff;
+// 输入框+表格边框
+$lineColor: #929292;
+
+// 白色字体
+.font-white {
+  color: $white !important;
+}
+
+.font-gray {
+  color: $gray !important;
+}
+
+// 红色字体
+.font-red {
+  color: $red !important;
+}
+
+.font-blue {
+  color: $blue !important;
+}
+
+.font-black {
+  color: $black !important;
+}
+
+.font-lightGray {
+  color: $lightGray !important;
+}
+
+// 加粗
+.font-block {
+  font-weight: bold;
+  color: $black;
+}

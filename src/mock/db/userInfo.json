@@ -1,0 +1,25 @@
+{
+  "code": "0000",
+  "message": null,
+  "datas": {
+    "code": "H017157",
+    "name": "杨志艳",
+    "sex": "1",
+    "mobile": "18666354931",
+    "email": "yangzhiyan@chtwm.com",
+    "deptName": "北京第八营业部理财2部",
+    "superiorDeptName": "北京第八营业部",
+    "postName": "理财顾问",
+    "deptCode": "0350010802",
+    "areaCode": null,
+    "areaName": null,
+    "superiorDeptCode": "03500108",
+    "postCode": "P0000453",
+    "trnsevent": null,
+    "createId": "system",
+    "createTime": "2018-03-26 15:36:26",
+    "updateId": "system",
+    "updateTime": "2018-04-08 11:49:32"
+  },
+  "success": true
+}
